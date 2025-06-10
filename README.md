@@ -1,4 +1,4 @@
-### 100 Days of Code Challenge
+100 Days of Code Challenge
 Duration: June 10, 2025 to September 18, 2025
 Goal: Master Python & Full-Stack Web Development through daily practice
 
@@ -67,21 +67,3 @@ Data Science Projects
 Lego Sets Analysis
 Google Trends Data Visualization
 And many more...
-Tools & Technologies
-Languages: Python 3
-IDEs: PyCharm, Jupyter Notebook, Google Colab
-Web: HTML5, CSS3, JavaScript, Bootstrap 4, Flask
-Data: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn
-Automation: Beautiful Soup, Selenium, Requests
-Database: SQLite, PostgreSQL
-Deployment: Heroku, Gunicorn
-Version Control: Git, GitHub
-
-Why This Challenge?
-This intensive challenge helps me:
-Build Consistency - Develop a daily coding habit
-Apply Knowledge - Practice with real-world projects
-Build Portfolio - Create projects to showcase to employers
-Problem Solving - Sharpen development and debugging skills
-Stay Current - Learn modern tools and best practices
-
