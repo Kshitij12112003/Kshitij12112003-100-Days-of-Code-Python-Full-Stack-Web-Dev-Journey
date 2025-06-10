@@ -1,60 +1,87 @@
-# Kshitij12112003-100-Days-of-Code-Python-Full-Stack-Web-Dev-Journey
-
-Welcome to my 100 Days of Code Challenge, running from May 18 to August 25, 2025!
-In this repository, I’m documenting my journey through an intensive Python and Full-Stack Web Development bootcamp. Every day, I learn something new — and then build a project to apply it.
-This challenge includes 100+ real-world projects, spanning automation, web scraping, game development, GUI apps, data science, APIs, and full-stack web apps.
+### 100 Days of Code Challenge
+Duration: June 10, 2025 to September 18, 2025
+Goal: Master Python & Full-Stack Web Development through daily practice
 
 What is This Challenge?
+As part of the #100DaysOfCode movement, I'm committing to code for at least 1 hour every day for 100 consecutive days.
+Daily Routine:
 
-As part of the #100DaysOfCode challenge, I'm committing to code for at least one hour every day for 100 days. Each day, I:
-* Study a new concept or tool
-* Build a small or medium-sized project to apply what I’ve learned
-* Share my progress right here in this repository
-Start Date: May 18, 2025 End Date: August 25, 2025
+Study a new concept or tool
+Build a project to apply what I've learned
+Document progress and learnings
+Share updates in this repository
 
-Topics Covered
 
+Learning Path
 Python Programming
 
-* Python 3 (Latest)
-* Scripting & Automation
-* Game Dev with turtle
-* GUI Apps with Tkinter
-* Jupyter Notebook, Google Colab, PyCharm
-Data Science
+Python 3 (Latest)
+Scripting & Automation
+Game Development with turtle
+GUI Applications with Tkinter
+Development with Jupyter Notebook, Google Colab, PyCharm
 
-* Pandas, NumPy
-* Matplotlib, Seaborn, Plotly
-* Scikit-learn
-* Data Analysis Projects
+Data Science & Analytics
+
+Libraries: Pandas, NumPy
+Visualization: Matplotlib, Seaborn, Plotly
+Machine Learning: Scikit-learn
+Real-world Data Analysis Projects
+
 Full-Stack Web Development
 
-* HTML5, CSS3, Bootstrap 4
-* Flask Web Framework
-* REST APIs & Authentication
-* WTForms & SQL (SQLite/PostgreSQL)
-* Git, GitHub & Deployment with Heroku, Gunicorn
-Automation & Scraping
+Frontend: HTML5, CSS3, Bootstrap 4
+Backend: Flask Web Framework
+APIs: REST APIs & Authentication
+Forms & Database: WTForms, SQL (SQLite/PostgreSQL)
+DevOps: Git, GitHub, Heroku Deployment, Gunicorn
 
-* Beautiful Soup
-* Selenium WebDriver
-* Requests
+Automation & Web Scraping
 
-Why This Challenge?
+Beautiful Soup for web scraping
+Selenium WebDriver for browser automation
+HTTP requests with requests library
 
-This challenge helps me:
-* Build a consistent daily coding habit
-* Practice applying new tools and technologies
-* Grow a portfolio of projects I can show employers
-* Sharpen my problem-solving and development skills
 
 Project Highlights
+Games
 
-Some of the cool things I’m building during this challenge:
-* Blackjack, Snake Game, Pong Game
-* Auto Tinder Swiper Bot
-* LinkedIn Job Application Automation
-* Birthday Email/SMS Automation
-* Blog Website with Flask & Authentication
-* Create & Host a Public API
-* Data Science Projects (Lego Sets, Google Trends, etc.)
+Blackjack Card Game
+Snake Game
+Pong Game
+
+Automation Bots
+
+Auto Tinder Swiper Bot
+LinkedIn Job Application Automation
+Birthday Email/SMS Automation System
+
+Web Applications
+
+Personal Blog Website with Flask
+User Authentication System
+Public API Creation & Hosting
+
+Data Science Projects
+
+Lego Sets Analysis
+Google Trends Data Visualization
+And many more...
+Tools & Technologies
+Languages: Python 3
+IDEs: PyCharm, Jupyter Notebook, Google Colab
+Web: HTML5, CSS3, JavaScript, Bootstrap 4, Flask
+Data: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn
+Automation: Beautiful Soup, Selenium, Requests
+Database: SQLite, PostgreSQL
+Deployment: Heroku, Gunicorn
+Version Control: Git, GitHub
+
+Why This Challenge?
+This intensive challenge helps me:
+Build Consistency - Develop a daily coding habit
+Apply Knowledge - Practice with real-world projects
+Build Portfolio - Create projects to showcase to employers
+Problem Solving - Sharpen development and debugging skills
+Stay Current - Learn modern tools and best practices
+
