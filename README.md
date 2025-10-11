@@ -1,6 +1,6 @@
 # 100 Days of Code Challenge
 
-**Duration:** June 10, 2025 to September 18, 2025  
+**Duration:** October 11, 2025 to January 19, 2026  
 **Goal:** Master Python & Full-Stack Web Development through daily practice
 
 ---
